@@ -229,17 +229,15 @@ class SubwayStation():
     def __getPresentableDistance__(self, arrivalTime, departureTime):
         curr_time = dt.datetime.now()
 
-        if arrivalTime <= curr_time:
-            if departureTime > curr_time:
-                return("At station")
-        elif arrivalTime >= curr_time:
-            t_diff = arrivalTime - curr_time
-            if t_diff.total_seconds() % 60 <= 0:
-                return "<1 min"
-            else:
-                return f"{str(int(t_diff.total_seconds() / 60))} min"
-        else:
+        t_diff = arrivalTime - curr_time
+        minutes = int(t_diff.total_seconds() / 60)
+
+        if minutes < 0:
             return("At station")
+        elif minutes == 0:
+            return("Approaching station")
+        else:
+            return f"{str(minutes)} min"
 
     def __parseSubwayData__(self, data):
         # Create empty lists
