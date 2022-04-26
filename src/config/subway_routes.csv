@@ -1,0 +1,31 @@
+route_id,route_long_name
+1,Broadway - 7 Avenue Local
+2,7 Avenue Express
+3,7 Avenue Express
+4,Lexington Avenue Express
+5,Lexington Avenue Express
+5X,Lexington Avenue Express
+6,Lexington Avenue Local
+6X,Pelham Bay Park Express
+7,Flushing Local
+7X,Flushing Express
+GS,42 St Shuttle
+A,8 Avenue Express
+B,6 Avenue Express
+C,8 Avenue Local
+D,6 Avenue Express
+E,8 Avenue Local
+F,Queens Blvd Express/ 6 Av Local
+FX,Brooklyn F Express
+FS,Franklin Avenue Shuttle
+G,Brooklyn-Queens Crosstown
+J,Nassau St Local
+L,14 St-Canarsie Local
+M,Queens Blvd Local/6 Av Local
+N,Broadway Local
+Q,Broadway Express
+R,Broadway Local
+H,Rockaway Park Shuttle
+W,Broadway Local
+Z,Nassau St Express
+SI,Staten Island Railway

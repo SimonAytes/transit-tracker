@@ -1,0 +1,1498 @@
+stop_id,stop_name,direction
+101,Van Cortlandt Park-242 St,STATION
+101N,Van Cortlandt Park-242 St,UPT
+101S,Van Cortlandt Park-242 St,DWT
+103,238 St,STATION
+103N,238 St,UPT
+103S,238 St,DWT
+104,231 St,STATION
+104N,231 St,UPT
+104S,231 St,DWT
+106,Marble Hill-225 St,STATION
+106N,Marble Hill-225 St,UPT
+106S,Marble Hill-225 St,DWT
+107,215 St,STATION
+107N,215 St,UPT
+107S,215 St,DWT
+108,207 St,STATION
+108N,207 St,UPT
+108S,207 St,DWT
+109,Dyckman St,STATION
+109N,Dyckman St,UPT
+109S,Dyckman St,DWT
+110,191 St,STATION
+110N,191 St,UPT
+110S,191 St,DWT
+111,181 St,STATION
+111N,181 St,UPT
+111S,181 St,DWT
+112,168 St-Washington Hts,STATION
+112N,168 St-Washington Hts,UPT
+112S,168 St-Washington Hts,DWT
+113,157 St,STATION
+113N,157 St,UPT
+113S,157 St,DWT
+114,145 St,STATION
+114N,145 St,UPT
+114S,145 St,DWT
+115,137 St-City College,STATION
+115N,137 St-City College,UPT
+115S,137 St-City College,DWT
+116,125 St,STATION
+116N,125 St,UPT
+116S,125 St,DWT
+117,116 St-Columbia University,STATION
+117N,116 St-Columbia University,UPT
+117S,116 St-Columbia University,DWT
+118,Cathedral Pkwy (110 St),STATION
+118N,Cathedral Pkwy (110 St),UPT
+118S,Cathedral Pkwy (110 St),DWT
+119,103 St,STATION
+119N,103 St,UPT
+119S,103 St,DWT
+120,96 St,STATION
+120N,96 St,UPT
+120S,96 St,DWT
+121,86 St,STATION
+121N,86 St,UPT
+121S,86 St,DWT
+122,79 St,STATION
+122N,79 St,UPT
+122S,79 St,DWT
+123,72 St,STATION
+123N,72 St,UPT
+123S,72 St,DWT
+124,66 St-Lincoln Center,STATION
+124N,66 St-Lincoln Center,UPT
+124S,66 St-Lincoln Center,DWT
+125,59 St-Columbus Circle,STATION
+125N,59 St-Columbus Circle,UPT
+125S,59 St-Columbus Circle,DWT
+126,50 St,STATION
+126N,50 St,UPT
+126S,50 St,DWT
+127,Times Sq-42 St,STATION
+127N,Times Sq-42 St,UPT
+127S,Times Sq-42 St,DWT
+128,34 St-Penn Station,STATION
+128N,34 St-Penn Station,UPT
+128S,34 St-Penn Station,DWT
+129,28 St,STATION
+129N,28 St,UPT
+129S,28 St,DWT
+130,23 St,STATION
+130N,23 St,UPT
+130S,23 St,DWT
+131,18 St,STATION
+131N,18 St,UPT
+131S,18 St,DWT
+132,14 St,STATION
+132N,14 St,UPT
+132S,14 St,DWT
+133,Christopher St-Sheridan Sq,STATION
+133N,Christopher St-Sheridan Sq,UPT
+133S,Christopher St-Sheridan Sq,DWT
+134,Houston St,STATION
+134N,Houston St,UPT
+134S,Houston St,DWT
+135,Canal St,STATION
+135N,Canal St,UPT
+135S,Canal St,DWT
+136,Franklin St,STATION
+136N,Franklin St,UPT
+136S,Franklin St,DWT
+137,Chambers St,STATION
+137N,Chambers St,UPT
+137S,Chambers St,DWT
+138,WTC Cortlandt,STATION
+138N,WTC Cortlandt,UPT
+138S,WTC Cortlandt,DWT
+139,Rector St,STATION
+139N,Rector St,UPT
+139S,Rector St,DWT
+140,South Ferry Loop,STATION
+140N,South Ferry Loop,UPT
+140S,South Ferry Loop,DWT
+142,South Ferry,STATION
+142N,South Ferry,UPT
+142S,South Ferry,DWT
+201,Wakefield-241 St,STATION
+201N,Wakefield-241 St,UPT
+201S,Wakefield-241 St,DWT
+204,Nereid Av,STATION
+204N,Nereid Av,UPT
+204S,Nereid Av,DWT
+205,233 St,STATION
+205N,233 St,UPT
+205S,233 St,DWT
+206,225 St,STATION
+206N,225 St,UPT
+206S,225 St,DWT
+207,219 St,STATION
+207N,219 St,UPT
+207S,219 St,DWT
+208,Gun Hill Rd,STATION
+208N,Gun Hill Rd,UPT
+208S,Gun Hill Rd,DWT
+209,Burke Av,STATION
+209N,Burke Av,UPT
+209S,Burke Av,DWT
+210,Allerton Av,STATION
+210N,Allerton Av,UPT
+210S,Allerton Av,DWT
+211,Pelham Pkwy,STATION
+211N,Pelham Pkwy,UPT
+211S,Pelham Pkwy,DWT
+212,Bronx Park East,STATION
+212N,Bronx Park East,UPT
+212S,Bronx Park East,DWT
+213,E 180 St,STATION
+213N,E 180 St,UPT
+213S,E 180 St,DWT
+214,West Farms Sq-E Tremont Av,STATION
+214N,West Farms Sq-E Tremont Av,UPT
+214S,West Farms Sq-E Tremont Av,DWT
+215,174 St,STATION
+215N,174 St,UPT
+215S,174 St,DWT
+216,Freeman St,STATION
+216N,Freeman St,UPT
+216S,Freeman St,DWT
+217,Simpson St,STATION
+217N,Simpson St,UPT
+217S,Simpson St,DWT
+218,Intervale Av,STATION
+218N,Intervale Av,UPT
+218S,Intervale Av,DWT
+219,Prospect Av,STATION
+219N,Prospect Av,UPT
+219S,Prospect Av,DWT
+220,Jackson Av,STATION
+220N,Jackson Av,UPT
+220S,Jackson Av,DWT
+221,3 Av-149 St,STATION
+221N,3 Av-149 St,UPT
+221S,3 Av-149 St,DWT
+222,149 St-Grand Concourse,STATION
+222N,149 St-Grand Concourse,UPT
+222S,149 St-Grand Concourse,DWT
+224,135 St,STATION
+224N,135 St,UPT
+224S,135 St,DWT
+225,125 St,STATION
+225N,125 St,UPT
+225S,125 St,DWT
+226,116 St,STATION
+226N,116 St,UPT
+226S,116 St,DWT
+227,Central Park North (110 St),STATION
+227N,Central Park North (110 St),UPT
+227S,Central Park North (110 St),DWT
+228,Park Place,STATION
+228N,Park Place,UPT
+228S,Park Place,DWT
+229,Fulton St,STATION
+229N,Fulton St,UPT
+229S,Fulton St,DWT
+230,Wall St,STATION
+230N,Wall St,UPT
+230S,Wall St,DWT
+231,Clark St,STATION
+231N,Clark St,UPT
+231S,Clark St,DWT
+232,Borough Hall,STATION
+232N,Borough Hall,UPT
+232S,Borough Hall,DWT
+233,Hoyt St,STATION
+233N,Hoyt St,UPT
+233S,Hoyt St,DWT
+234,Nevins St,STATION
+234N,Nevins St,UPT
+234S,Nevins St,DWT
+235,Atlantic Av-Barclays Ctr,STATION
+235N,Atlantic Av-Barclays Ctr,UPT
+235S,Atlantic Av-Barclays Ctr,DWT
+236,Bergen St,STATION
+236N,Bergen St,UPT
+236S,Bergen St,DWT
+237,Grand Army Plaza,STATION
+237N,Grand Army Plaza,UPT
+237S,Grand Army Plaza,DWT
+238,Eastern Pkwy-Brooklyn Museum,STATION
+238N,Eastern Pkwy-Brooklyn Museum,UPT
+238S,Eastern Pkwy-Brooklyn Museum,DWT
+239,Franklin Av-Medgar Evers College,STATION
+239N,Franklin Av-Medgar Evers College,UPT
+239S,Franklin Av-Medgar Evers College,DWT
+241,President St-Medgar Evers College,STATION
+241N,President St-Medgar Evers College,UPT
+241S,President St-Medgar Evers College,DWT
+242,Sterling St,STATION
+242N,Sterling St,UPT
+242S,Sterling St,DWT
+243,Winthrop St,STATION
+243N,Winthrop St,UPT
+243S,Winthrop St,DWT
+244,Church Av,STATION
+244N,Church Av,UPT
+244S,Church Av,DWT
+245,Beverly Rd,STATION
+245N,Beverly Rd,UPT
+245S,Beverly Rd,DWT
+246,Newkirk Av-Little Haiti,STATION
+246N,Newkirk Av-Little Haiti,UPT
+246S,Newkirk Av-Little Haiti,DWT
+247,Flatbush Av-Brooklyn College,STATION
+247N,Flatbush Av-Brooklyn College,UPT
+247S,Flatbush Av-Brooklyn College,DWT
+248,Nostrand Av,STATION
+248N,Nostrand Av,UPT
+248S,Nostrand Av,DWT
+249,Kingston Av,STATION
+249N,Kingston Av,UPT
+249S,Kingston Av,DWT
+250,Crown Hts-Utica Av,STATION
+250N,Crown Hts-Utica Av,UPT
+250S,Crown Hts-Utica Av,DWT
+251,Sutter Av-Rutland Rd,STATION
+251N,Sutter Av-Rutland Rd,UPT
+251S,Sutter Av-Rutland Rd,DWT
+252,Saratoga Av,STATION
+252N,Saratoga Av,UPT
+252S,Saratoga Av,DWT
+253,Rockaway Av,STATION
+253N,Rockaway Av,UPT
+253S,Rockaway Av,DWT
+254,Junius St,STATION
+254N,Junius St,UPT
+254S,Junius St,DWT
+255,Pennsylvania Av,STATION
+255N,Pennsylvania Av,UPT
+255S,Pennsylvania Av,DWT
+256,Van Siclen Av,STATION
+256N,Van Siclen Av,UPT
+256S,Van Siclen Av,DWT
+257,New Lots Av,STATION
+257N,New Lots Av,UPT
+257S,New Lots Av,DWT
+301,Harlem-148 St,STATION
+301N,Harlem-148 St,UPT
+301S,Harlem-148 St,DWT
+302,145 St,STATION
+302N,145 St,UPT
+302S,145 St,DWT
+401,Woodlawn,STATION
+401N,Woodlawn,UPT
+401S,Woodlawn,DWT
+402,Mosholu Pkwy,STATION
+402N,Mosholu Pkwy,UPT
+402S,Mosholu Pkwy,DWT
+405,Bedford Park Blvd-Lehman College,STATION
+405N,Bedford Park Blvd-Lehman College,UPT
+405S,Bedford Park Blvd-Lehman College,DWT
+406,Kingsbridge Rd,STATION
+406N,Kingsbridge Rd,UPT
+406S,Kingsbridge Rd,DWT
+407,Fordham Rd,STATION
+407N,Fordham Rd,UPT
+407S,Fordham Rd,DWT
+408,183 St,STATION
+408N,183 St,UPT
+408S,183 St,DWT
+409,Burnside Av,STATION
+409N,Burnside Av,UPT
+409S,Burnside Av,DWT
+410,176 St,STATION
+410N,176 St,UPT
+410S,176 St,DWT
+411,Mt Eden Av,STATION
+411N,Mt Eden Av,UPT
+411S,Mt Eden Av,DWT
+412,170 St,STATION
+412N,170 St,UPT
+412S,170 St,DWT
+413,167 St,STATION
+413N,167 St,UPT
+413S,167 St,DWT
+414,161 St-Yankee Stadium,STATION
+414N,161 St-Yankee Stadium,UPT
+414S,161 St-Yankee Stadium,DWT
+415,149 St-Grand Concourse,STATION
+415N,149 St-Grand Concourse,UPT
+415S,149 St-Grand Concourse,DWT
+416,138 St-Grand Concourse,STATION
+416N,138 St-Grand Concourse,UPT
+416S,138 St-Grand Concourse,DWT
+418,Fulton St,STATION
+418N,Fulton St,UPT
+418S,Fulton St,DWT
+419,Wall St,STATION
+419N,Wall St,UPT
+419S,Wall St,DWT
+420,Bowling Green,STATION
+420N,Bowling Green,UPT
+420S,Bowling Green,DWT
+423,Borough Hall,STATION
+423N,Borough Hall,UPT
+423S,Borough Hall,DWT
+501,Eastchester-Dyre Av,STATION
+501N,Eastchester-Dyre Av,UPT
+501S,Eastchester-Dyre Av,DWT
+502,Baychester Av,STATION
+502N,Baychester Av,UPT
+502S,Baychester Av,DWT
+503,Gun Hill Rd,STATION
+503N,Gun Hill Rd,UPT
+503S,Gun Hill Rd,DWT
+504,Pelham Pkwy,STATION
+504N,Pelham Pkwy,UPT
+504S,Pelham Pkwy,DWT
+505,Morris Park,STATION
+505N,Morris Park,UPT
+505S,Morris Park,DWT
+601,Pelham Bay Park,STATION
+601N,Pelham Bay Park,UPT
+601S,Pelham Bay Park,DWT
+602,Buhre Av,STATION
+602N,Buhre Av,UPT
+602S,Buhre Av,DWT
+603,Middletown Rd,STATION
+603N,Middletown Rd,UPT
+603S,Middletown Rd,DWT
+604,Westchester Sq-E Tremont Av,STATION
+604N,Westchester Sq-E Tremont Av,UPT
+604S,Westchester Sq-E Tremont Av,DWT
+606,Zerega Av,STATION
+606N,Zerega Av,UPT
+606S,Zerega Av,DWT
+607,Castle Hill Av,STATION
+607N,Castle Hill Av,UPT
+607S,Castle Hill Av,DWT
+608,Parkchester,STATION
+608N,Parkchester,UPT
+608S,Parkchester,DWT
+609,St Lawrence Av,STATION
+609N,St Lawrence Av,UPT
+609S,St Lawrence Av,DWT
+610,Morrison Av-Soundview,STATION
+610N,Morrison Av-Soundview,UPT
+610S,Morrison Av-Soundview,DWT
+611,Elder Av,STATION
+611N,Elder Av,UPT
+611S,Elder Av,DWT
+612,Whitlock Av,STATION
+612N,Whitlock Av,UPT
+612S,Whitlock Av,DWT
+613,Hunts Point Av,STATION
+613N,Hunts Point Av,UPT
+613S,Hunts Point Av,DWT
+614,Longwood Av,STATION
+614N,Longwood Av,UPT
+614S,Longwood Av,DWT
+615,E 149 St,STATION
+615N,E 149 St,UPT
+615S,E 149 St,DWT
+616,E 143 St-St Mary's St,STATION
+616N,E 143 St-St Mary's St,UPT
+616S,E 143 St-St Mary's St,DWT
+617,Cypress Av,STATION
+617N,Cypress Av,UPT
+617S,Cypress Av,DWT
+618,Brook Av,STATION
+618N,Brook Av,UPT
+618S,Brook Av,DWT
+619,3 Av-138 St,STATION
+619N,3 Av-138 St,UPT
+619S,3 Av-138 St,DWT
+621,125 St,STATION
+621N,125 St,UPT
+621S,125 St,DWT
+622,116 St,STATION
+622N,116 St,UPT
+622S,116 St,DWT
+623,110 St,STATION
+623N,110 St,UPT
+623S,110 St,DWT
+624,103 St,STATION
+624N,103 St,UPT
+624S,103 St,DWT
+625,96 St,STATION
+625N,96 St,UPT
+625S,96 St,DWT
+626,86 St,STATION
+626N,86 St,UPT
+626S,86 St,DWT
+627,77 St,STATION
+627N,77 St,UPT
+627S,77 St,DWT
+628,68 St-Hunter College,STATION
+628N,68 St-Hunter College,UPT
+628S,68 St-Hunter College,DWT
+629,59 St,STATION
+629N,59 St,UPT
+629S,59 St,DWT
+630,51 St,STATION
+630N,51 St,UPT
+630S,51 St,DWT
+631,Grand Central-42 St,STATION
+631N,Grand Central-42 St,UPT
+631S,Grand Central-42 St,DWT
+632,33 St,STATION
+632N,33 St,UPT
+632S,33 St,DWT
+633,28 St,STATION
+633N,28 St,UPT
+633S,28 St,DWT
+634,23 St,STATION
+634N,23 St,UPT
+634S,23 St,DWT
+635,14 St-Union Sq,STATION
+635N,14 St-Union Sq,UPT
+635S,14 St-Union Sq,DWT
+636,Astor Pl,STATION
+636N,Astor Pl,UPT
+636S,Astor Pl,DWT
+637,Bleecker St,STATION
+637N,Bleecker St,UPT
+637S,Bleecker St,DWT
+638,Spring St,STATION
+638N,Spring St,UPT
+638S,Spring St,DWT
+639,Canal St,STATION
+639N,Canal St,UPT
+639S,Canal St,DWT
+640,Brooklyn Bridge-City Hall,STATION
+640N,Brooklyn Bridge-City Hall,UPT
+640S,Brooklyn Bridge-City Hall,DWT
+701,Flushing-Main St,STATION
+701N,Flushing-Main St,UPT
+701S,Flushing-Main St,DWT
+702,Mets-Willets Point,STATION
+702N,Mets-Willets Point,UPT
+702S,Mets-Willets Point,DWT
+705,111 St,STATION
+705N,111 St,UPT
+705S,111 St,DWT
+706,103 St-Corona Plaza,STATION
+706N,103 St-Corona Plaza,UPT
+706S,103 St-Corona Plaza,DWT
+707,Junction Blvd,STATION
+707N,Junction Blvd,UPT
+707S,Junction Blvd,DWT
+708,90 St-Elmhurst Av,STATION
+708N,90 St-Elmhurst Av,UPT
+708S,90 St-Elmhurst Av,DWT
+709,82 St-Jackson Hts,STATION
+709N,82 St-Jackson Hts,UPT
+709S,82 St-Jackson Hts,DWT
+710,74 St-Broadway,STATION
+710N,74 St-Broadway,UPT
+710S,74 St-Broadway,DWT
+711,69 St,STATION
+711N,69 St,UPT
+711S,69 St,DWT
+712,61 St-Woodside,STATION
+712N,61 St-Woodside,UPT
+712S,61 St-Woodside,DWT
+713,52 St,STATION
+713N,52 St,UPT
+713S,52 St,DWT
+714,46 St-Bliss St,STATION
+714N,46 St-Bliss St,UPT
+714S,46 St-Bliss St,DWT
+715,40 St-Lowery St,STATION
+715N,40 St-Lowery St,UPT
+715S,40 St-Lowery St,DWT
+716,33 St-Rawson St,STATION
+716N,33 St-Rawson St,UPT
+716S,33 St-Rawson St,DWT
+718,Queensboro Plaza,STATION
+718N,Queensboro Plaza,UPT
+718S,Queensboro Plaza,DWT
+719,Court Sq,STATION
+719N,Court Sq,UPT
+719S,Court Sq,DWT
+720,Hunters Point Av,STATION
+720N,Hunters Point Av,UPT
+720S,Hunters Point Av,DWT
+721,Vernon Blvd-Jackson Av,STATION
+721N,Vernon Blvd-Jackson Av,UPT
+721S,Vernon Blvd-Jackson Av,DWT
+723,Grand Central-42 St,STATION
+723N,Grand Central-42 St,UPT
+723S,Grand Central-42 St,DWT
+724,5 Av,STATION
+724N,5 Av,UPT
+724S,5 Av,DWT
+725,Times Sq-42 St,STATION
+725N,Times Sq-42 St,UPT
+725S,Times Sq-42 St,DWT
+726,34 St-Hudson Yards,STATION
+726N,34 St-Hudson Yards,UPT
+726S,34 St-Hudson Yards,DWT
+901,Grand Central-42 St,STATION
+901N,Grand Central-42 St,UPT
+901S,Grand Central-42 St,DWT
+902,Times Sq-42 St,STATION
+902N,Times Sq-42 St,UPT
+902S,Times Sq-42 St,DWT
+A02,Inwood-207 St,STATION
+A02N,Inwood-207 St,UPT
+A02S,Inwood-207 St,DWT
+A03,Dyckman St,STATION
+A03N,Dyckman St,UPT
+A03S,Dyckman St,DWT
+A05,190 St,STATION
+A05N,190 St,UPT
+A05S,190 St,DWT
+A06,181 St,STATION
+A06N,181 St,UPT
+A06S,181 St,DWT
+A07,175 St,STATION
+A07N,175 St,UPT
+A07S,175 St,DWT
+A09,168 St,STATION
+A09N,168 St,UPT
+A09S,168 St,DWT
+A10,163 St-Amsterdam Av,STATION
+A10N,163 St-Amsterdam Av,UPT
+A10S,163 St-Amsterdam Av,DWT
+A11,155 St,STATION
+A11N,155 St,UPT
+A11S,155 St,DWT
+A12,145 St,STATION
+A12N,145 St,UPT
+A12S,145 St,DWT
+A14,135 St,STATION
+A14N,135 St,UPT
+A14S,135 St,DWT
+A15,125 St,STATION
+A15N,125 St,UPT
+A15S,125 St,DWT
+A16,116 St,STATION
+A16N,116 St,UPT
+A16S,116 St,DWT
+A17,Cathedral Pkwy (110 St),STATION
+A17N,Cathedral Pkwy (110 St),UPT
+A17S,Cathedral Pkwy (110 St),DWT
+A18,103 St,STATION
+A18N,103 St,UPT
+A18S,103 St,DWT
+A19,96 St,STATION
+A19N,96 St,UPT
+A19S,96 St,DWT
+A20,86 St,STATION
+A20N,86 St,UPT
+A20S,86 St,DWT
+A21,81 St-Museum of Natural History,STATION
+A21N,81 St-Museum of Natural History,UPT
+A21S,81 St-Museum of Natural History,DWT
+A22,72 St,STATION
+A22N,72 St,UPT
+A22S,72 St,DWT
+A24,59 St-Columbus Circle,STATION
+A24N,59 St-Columbus Circle,UPT
+A24S,59 St-Columbus Circle,DWT
+A25,50 St,STATION
+A25N,50 St,UPT
+A25S,50 St,DWT
+A27,42 St-Port Authority Bus Terminal,STATION
+A27N,42 St-Port Authority Bus Terminal,UPT
+A27S,42 St-Port Authority Bus Terminal,DWT
+A28,34 St-Penn Station,STATION
+A28N,34 St-Penn Station,UPT
+A28S,34 St-Penn Station,DWT
+A30,23 St,STATION
+A30N,23 St,UPT
+A30S,23 St,DWT
+A31,14 St,STATION
+A31N,14 St,UPT
+A31S,14 St,DWT
+A32,W 4 St-Wash Sq,STATION
+A32N,W 4 St-Wash Sq,UPT
+A32S,W 4 St-Wash Sq,DWT
+A33,Spring St,STATION
+A33N,Spring St,UPT
+A33S,Spring St,DWT
+A34,Canal St,STATION
+A34N,Canal St,UPT
+A34S,Canal St,DWT
+A36,Chambers St,STATION
+A36N,Chambers St,UPT
+A36S,Chambers St,DWT
+A38,Fulton St,STATION
+A38N,Fulton St,UPT
+A38S,Fulton St,DWT
+A40,High St,STATION
+A40N,High St,UPT
+A40S,High St,DWT
+A41,Jay St-MetroTech,STATION
+A41N,Jay St-MetroTech,UPT
+A41S,Jay St-MetroTech,DWT
+A42,Hoyt-Schermerhorn Sts,STATION
+A42N,Hoyt-Schermerhorn Sts,UPT
+A42S,Hoyt-Schermerhorn Sts,DWT
+A43,Lafayette Av,STATION
+A43N,Lafayette Av,UPT
+A43S,Lafayette Av,DWT
+A44,Clinton-Washington Avs,STATION
+A44N,Clinton-Washington Avs,UPT
+A44S,Clinton-Washington Avs,DWT
+A45,Franklin Av,STATION
+A45N,Franklin Av,UPT
+A45S,Franklin Av,DWT
+A46,Nostrand Av,STATION
+A46N,Nostrand Av,UPT
+A46S,Nostrand Av,DWT
+A47,Kingston-Throop Avs,STATION
+A47N,Kingston-Throop Avs,UPT
+A47S,Kingston-Throop Avs,DWT
+A48,Utica Av,STATION
+A48N,Utica Av,UPT
+A48S,Utica Av,DWT
+A49,Ralph Av,STATION
+A49N,Ralph Av,UPT
+A49S,Ralph Av,DWT
+A50,Rockaway Av,STATION
+A50N,Rockaway Av,UPT
+A50S,Rockaway Av,DWT
+A51,Broadway Junction,STATION
+A51N,Broadway Junction,UPT
+A51S,Broadway Junction,DWT
+A52,Liberty Av,STATION
+A52N,Liberty Av,UPT
+A52S,Liberty Av,DWT
+A53,Van Siclen Av,STATION
+A53N,Van Siclen Av,UPT
+A53S,Van Siclen Av,DWT
+A54,Shepherd Av,STATION
+A54N,Shepherd Av,UPT
+A54S,Shepherd Av,DWT
+A55,Euclid Av,STATION
+A55N,Euclid Av,UPT
+A55S,Euclid Av,DWT
+A57,Grant Av,STATION
+A57N,Grant Av,UPT
+A57S,Grant Av,DWT
+A59,80 St,STATION
+A59N,80 St,UPT
+A59S,80 St,DWT
+A60,88 St,STATION
+A60N,88 St,UPT
+A60S,88 St,DWT
+A61,Rockaway Blvd,STATION
+A61N,Rockaway Blvd,UPT
+A61S,Rockaway Blvd,DWT
+A63,104 St,STATION
+A63N,104 St,UPT
+A63S,104 St,DWT
+A64,111 St,STATION
+A64N,111 St,UPT
+A64S,111 St,DWT
+A65,Ozone Park-Lefferts Blvd,STATION
+A65N,Ozone Park-Lefferts Blvd,UPT
+A65S,Ozone Park-Lefferts Blvd,DWT
+B04,21 St-Queensbridge,STATION
+B04N,21 St-Queensbridge,UPT
+B04S,21 St-Queensbridge,DWT
+B06,Roosevelt Island,STATION
+B06N,Roosevelt Island,UPT
+B06S,Roosevelt Island,DWT
+B08,Lexington Av/63 St,STATION
+B08N,Lexington Av/63 St,UPT
+B08S,Lexington Av/63 St,DWT
+B10,57 St,STATION
+B10N,57 St,UPT
+B10S,57 St,DWT
+B12,9 Av,STATION
+B12N,9 Av,UPT
+B12S,9 Av,DWT
+B13,Fort Hamilton Pkwy,STATION
+B13N,Fort Hamilton Pkwy,UPT
+B13S,Fort Hamilton Pkwy,DWT
+B14,50 St,STATION
+B14N,50 St,UPT
+B14S,50 St,DWT
+B15,55 St,STATION
+B15N,55 St,UPT
+B15S,55 St,DWT
+B16,62 St,STATION
+B16N,62 St,UPT
+B16S,62 St,DWT
+B17,71 St,STATION
+B17N,71 St,UPT
+B17S,71 St,DWT
+B18,79 St,STATION
+B18N,79 St,UPT
+B18S,79 St,DWT
+B19,18 Av,STATION
+B19N,18 Av,UPT
+B19S,18 Av,DWT
+B20,20 Av,STATION
+B20N,20 Av,UPT
+B20S,20 Av,DWT
+B21,Bay Pkwy,STATION
+B21N,Bay Pkwy,UPT
+B21S,Bay Pkwy,DWT
+B22,25 Av,STATION
+B22N,25 Av,UPT
+B22S,25 Av,DWT
+B23,Bay 50 St,STATION
+B23N,Bay 50 St,UPT
+B23S,Bay 50 St,DWT
+D01,Norwood-205 St,STATION
+D01N,Norwood-205 St,UPT
+D01S,Norwood-205 St,DWT
+D03,Bedford Park Blvd,STATION
+D03N,Bedford Park Blvd,UPT
+D03S,Bedford Park Blvd,DWT
+D04,Kingsbridge Rd,STATION
+D04N,Kingsbridge Rd,UPT
+D04S,Kingsbridge Rd,DWT
+D05,Fordham Rd,STATION
+D05N,Fordham Rd,UPT
+D05S,Fordham Rd,DWT
+D06,182-183 Sts,STATION
+D06N,182-183 Sts,UPT
+D06S,182-183 Sts,DWT
+D07,Tremont Av,STATION
+D07N,Tremont Av,UPT
+D07S,Tremont Av,DWT
+D08,174-175 Sts,STATION
+D08N,174-175 Sts,UPT
+D08S,174-175 Sts,DWT
+D09,170 St,STATION
+D09N,170 St,UPT
+D09S,170 St,DWT
+D10,167 St,STATION
+D10N,167 St,UPT
+D10S,167 St,DWT
+D11,161 St-Yankee Stadium,STATION
+D11N,161 St-Yankee Stadium,UPT
+D11S,161 St-Yankee Stadium,DWT
+D12,155 St,STATION
+D12N,155 St,UPT
+D12S,155 St,DWT
+D13,145 St,STATION
+D13N,145 St,UPT
+D13S,145 St,DWT
+D14,7 Av,STATION
+D14N,7 Av,UPT
+D14S,7 Av,DWT
+D15,47-50 Sts-Rockefeller Ctr,STATION
+D15N,47-50 Sts-Rockefeller Ctr,UPT
+D15S,47-50 Sts-Rockefeller Ctr,DWT
+D16,42 St-Bryant Pk,STATION
+D16N,42 St-Bryant Pk,UPT
+D16S,42 St-Bryant Pk,DWT
+D17,34 St-Herald Sq,STATION
+D17N,34 St-Herald Sq,UPT
+D17S,34 St-Herald Sq,DWT
+D18,23 St,STATION
+D18N,23 St,UPT
+D18S,23 St,DWT
+D19,14 St,STATION
+D19N,14 St,UPT
+D19S,14 St,DWT
+D20,W 4 St-Wash Sq,STATION
+D20N,W 4 St-Wash Sq,UPT
+D20S,W 4 St-Wash Sq,DWT
+D21,Broadway-Lafayette St,STATION
+D21N,Broadway-Lafayette St,UPT
+D21S,Broadway-Lafayette St,DWT
+D22,Grand St,STATION
+D22N,Grand St,UPT
+D22S,Grand St,DWT
+D24,Atlantic Av-Barclays Ctr,STATION
+D24N,Atlantic Av-Barclays Ctr,UPT
+D24S,Atlantic Av-Barclays Ctr,DWT
+D25,7 Av,STATION
+D25N,7 Av,UPT
+D25S,7 Av,DWT
+D26,Prospect Park,STATION
+D26N,Prospect Park,UPT
+D26S,Prospect Park,DWT
+D27,Parkside Av,STATION
+D27N,Parkside Av,UPT
+D27S,Parkside Av,DWT
+D28,Church Av,STATION
+D28N,Church Av,UPT
+D28S,Church Av,DWT
+D29,Beverley Rd,STATION
+D29N,Beverley Rd,UPT
+D29S,Beverley Rd,DWT
+D30,Cortelyou Rd,STATION
+D30N,Cortelyou Rd,UPT
+D30S,Cortelyou Rd,DWT
+D31,Newkirk Plaza,STATION
+D31N,Newkirk Plaza,UPT
+D31S,Newkirk Plaza,DWT
+D32,Avenue H,STATION
+D32N,Avenue H,UPT
+D32S,Avenue H,DWT
+D33,Avenue J,STATION
+D33N,Avenue J,UPT
+D33S,Avenue J,DWT
+D34,Avenue M,STATION
+D34N,Avenue M,UPT
+D34S,Avenue M,DWT
+D35,Kings Hwy,STATION
+D35N,Kings Hwy,UPT
+D35S,Kings Hwy,DWT
+D37,Avenue U,STATION
+D37N,Avenue U,UPT
+D37S,Avenue U,DWT
+D38,Neck Rd,STATION
+D38N,Neck Rd,UPT
+D38S,Neck Rd,DWT
+D39,Sheepshead Bay,STATION
+D39N,Sheepshead Bay,UPT
+D39S,Sheepshead Bay,DWT
+D40,Brighton Beach,STATION
+D40N,Brighton Beach,UPT
+D40S,Brighton Beach,DWT
+D41,Ocean Pkwy,STATION
+D41N,Ocean Pkwy,UPT
+D41S,Ocean Pkwy,DWT
+D42,W 8 St-NY Aquarium,STATION
+D42N,W 8 St-NY Aquarium,UPT
+D42S,W 8 St-NY Aquarium,DWT
+D43,Coney Island-Stillwell Av,STATION
+D43N,Coney Island-Stillwell Av,UPT
+D43S,Coney Island-Stillwell Av,DWT
+E01,World Trade Center,STATION
+E01N,World Trade Center,UPT
+E01S,World Trade Center,DWT
+F01,Jamaica-179 St,STATION
+F01N,Jamaica-179 St,UPT
+F01S,Jamaica-179 St,DWT
+F02,169 St,STATION
+F02N,169 St,UPT
+F02S,169 St,DWT
+F03,Parsons Blvd,STATION
+F03N,Parsons Blvd,UPT
+F03S,Parsons Blvd,DWT
+F04,Sutphin Blvd,STATION
+F04N,Sutphin Blvd,UPT
+F04S,Sutphin Blvd,DWT
+F05,Briarwood,STATION
+F05N,Briarwood,UPT
+F05S,Briarwood,DWT
+F06,Kew Gardens-Union Tpke,STATION
+F06N,Kew Gardens-Union Tpke,UPT
+F06S,Kew Gardens-Union Tpke,DWT
+F07,75 Av,STATION
+F07N,75 Av,UPT
+F07S,75 Av,DWT
+F09,Court Sq-23 St,STATION
+F09N,Court Sq-23 St,UPT
+F09S,Court Sq-23 St,DWT
+F11,Lexington Av/53 St,STATION
+F11N,Lexington Av/53 St,UPT
+F11S,Lexington Av/53 St,DWT
+F12,5 Av/53 St,STATION
+F12N,5 Av/53 St,UPT
+F12S,5 Av/53 St,DWT
+F14,2 Av,STATION
+F14N,2 Av,UPT
+F14S,2 Av,DWT
+F15,Delancey St-Essex St,STATION
+F15N,Delancey St-Essex St,UPT
+F15S,Delancey St-Essex St,DWT
+F16,East Broadway,STATION
+F16N,East Broadway,UPT
+F16S,East Broadway,DWT
+F18,York St,STATION
+F18N,York St,UPT
+F18S,York St,DWT
+F20,Bergen St,STATION
+F20N,Bergen St,UPT
+F20S,Bergen St,DWT
+F21,Carroll St,STATION
+F21N,Carroll St,UPT
+F21S,Carroll St,DWT
+F22,Smith-9 Sts,STATION
+F22N,Smith-9 Sts,UPT
+F22S,Smith-9 Sts,DWT
+F23,4 Av-9 St,STATION
+F23N,4 Av-9 St,UPT
+F23S,4 Av-9 St,DWT
+F24,7 Av,STATION
+F24N,7 Av,UPT
+F24S,7 Av,DWT
+F25,15 St-Prospect Park,STATION
+F25N,15 St-Prospect Park,UPT
+F25S,15 St-Prospect Park,DWT
+F26,Fort Hamilton Pkwy,STATION
+F26N,Fort Hamilton Pkwy,UPT
+F26S,Fort Hamilton Pkwy,DWT
+F27,Church Av,STATION
+F27N,Church Av,UPT
+F27S,Church Av,DWT
+F29,Ditmas Av,STATION
+F29N,Ditmas Av,UPT
+F29S,Ditmas Av,DWT
+F30,18 Av,STATION
+F30N,18 Av,UPT
+F30S,18 Av,DWT
+F31,Avenue I,STATION
+F31N,Avenue I,UPT
+F31S,Avenue I,DWT
+F32,Bay Pkwy,STATION
+F32N,Bay Pkwy,UPT
+F32S,Bay Pkwy,DWT
+F33,Avenue N,STATION
+F33N,Avenue N,UPT
+F33S,Avenue N,DWT
+F34,Avenue P,STATION
+F34N,Avenue P,UPT
+F34S,Avenue P,DWT
+F35,Kings Hwy,STATION
+F35N,Kings Hwy,UPT
+F35S,Kings Hwy,DWT
+F36,Avenue U,STATION
+F36N,Avenue U,UPT
+F36S,Avenue U,DWT
+F38,Avenue X,STATION
+F38N,Avenue X,UPT
+F38S,Avenue X,DWT
+F39,Neptune Av,STATION
+F39N,Neptune Av,UPT
+F39S,Neptune Av,DWT
+G05,Jamaica Center-Parsons/Archer,STATION
+G05N,Jamaica Center-Parsons/Archer,UPT
+G05S,Jamaica Center-Parsons/Archer,DWT
+G06,Sutphin Blvd-Archer Av-JFK Airport,STATION
+G06N,Sutphin Blvd-Archer Av-JFK Airport,UPT
+G06S,Sutphin Blvd-Archer Av-JFK Airport,DWT
+G07,Jamaica-Van Wyck,STATION
+G07N,Jamaica-Van Wyck,UPT
+G07S,Jamaica-Van Wyck,DWT
+G08,Forest Hills-71 Av,STATION
+G08N,Forest Hills-71 Av,UPT
+G08S,Forest Hills-71 Av,DWT
+G09,67 Av,STATION
+G09N,67 Av,UPT
+G09S,67 Av,DWT
+G10,63 Dr-Rego Park,STATION
+G10N,63 Dr-Rego Park,UPT
+G10S,63 Dr-Rego Park,DWT
+G11,Woodhaven Blvd,STATION
+G11N,Woodhaven Blvd,UPT
+G11S,Woodhaven Blvd,DWT
+G12,Grand Av-Newtown,STATION
+G12N,Grand Av-Newtown,UPT
+G12S,Grand Av-Newtown,DWT
+G13,Elmhurst Av,STATION
+G13N,Elmhurst Av,UPT
+G13S,Elmhurst Av,DWT
+G14,Jackson Hts-Roosevelt Av,STATION
+G14N,Jackson Hts-Roosevelt Av,UPT
+G14S,Jackson Hts-Roosevelt Av,DWT
+G15,65 St,STATION
+G15N,65 St,UPT
+G15S,65 St,DWT
+G16,Northern Blvd,STATION
+G16N,Northern Blvd,UPT
+G16S,Northern Blvd,DWT
+G18,46 St,STATION
+G18N,46 St,UPT
+G18S,46 St,DWT
+G19,Steinway St,STATION
+G19N,Steinway St,UPT
+G19S,Steinway St,DWT
+G20,36 St,STATION
+G20N,36 St,UPT
+G20S,36 St,DWT
+G21,Queens Plaza,STATION
+G21N,Queens Plaza,UPT
+G21S,Queens Plaza,DWT
+G22,Court Sq,STATION
+G22N,Court Sq,UPT
+G22S,Court Sq,DWT
+G24,21 St,STATION
+G24N,21 St,UPT
+G24S,21 St,DWT
+G26,Greenpoint Av,STATION
+G26N,Greenpoint Av,UPT
+G26S,Greenpoint Av,DWT
+G28,Nassau Av,STATION
+G28N,Nassau Av,UPT
+G28S,Nassau Av,DWT
+G29,Metropolitan Av,STATION
+G29N,Metropolitan Av,UPT
+G29S,Metropolitan Av,DWT
+G30,Broadway,STATION
+G30N,Broadway,UPT
+G30S,Broadway,DWT
+G31,Flushing Av,STATION
+G31N,Flushing Av,UPT
+G31S,Flushing Av,DWT
+G32,Myrtle-Willoughby Avs,STATION
+G32N,Myrtle-Willoughby Avs,UPT
+G32S,Myrtle-Willoughby Avs,DWT
+G33,Bedford-Nostrand Avs,STATION
+G33N,Bedford-Nostrand Avs,UPT
+G33S,Bedford-Nostrand Avs,DWT
+G34,Classon Av,STATION
+G34N,Classon Av,UPT
+G34S,Classon Av,DWT
+G35,Clinton-Washington Avs,STATION
+G35N,Clinton-Washington Avs,UPT
+G35S,Clinton-Washington Avs,DWT
+G36,Fulton St,STATION
+G36N,Fulton St,UPT
+G36S,Fulton St,DWT
+H01,Aqueduct Racetrack,STATION
+H01N,Aqueduct Racetrack,UPT
+H01S,Aqueduct Racetrack,DWT
+H02,Aqueduct-N Conduit Av,STATION
+H02N,Aqueduct-N Conduit Av,UPT
+H02S,Aqueduct-N Conduit Av,DWT
+H03,Howard Beach-JFK Airport,STATION
+H03N,Howard Beach-JFK Airport,UPT
+H03S,Howard Beach-JFK Airport,DWT
+H04,Broad Channel,STATION
+H04N,Broad Channel,UPT
+H04S,Broad Channel,DWT
+H06,Beach 67 St,STATION
+H06N,Beach 67 St,UPT
+H06S,Beach 67 St,DWT
+H07,Beach 60 St,STATION
+H07N,Beach 60 St,UPT
+H07S,Beach 60 St,DWT
+H08,Beach 44 St,STATION
+H08N,Beach 44 St,UPT
+H08S,Beach 44 St,DWT
+H09,Beach 36 St,STATION
+H09N,Beach 36 St,UPT
+H09S,Beach 36 St,DWT
+H10,Beach 25 St,STATION
+H10N,Beach 25 St,UPT
+H10S,Beach 25 St,DWT
+H11,Far Rockaway-Mott Av,STATION
+H11N,Far Rockaway-Mott Av,UPT
+H11S,Far Rockaway-Mott Av,DWT
+H12,Beach 90 St,STATION
+H12N,Beach 90 St,UPT
+H12S,Beach 90 St,DWT
+H13,Beach 98 St,STATION
+H13N,Beach 98 St,UPT
+H13S,Beach 98 St,DWT
+H14,Beach 105 St,STATION
+H14N,Beach 105 St,UPT
+H14S,Beach 105 St,DWT
+H15,Rockaway Park-Beach 116 St,STATION
+H15N,Rockaway Park-Beach 116 St,UPT
+H15S,Rockaway Park-Beach 116 St,DWT
+H19,Broad Channel,STATION
+H19N,Broad Channel,UPT
+H19S,Broad Channel,DWT
+J12,121 St,STATION
+J12N,121 St,UPT
+J12S,121 St,DWT
+J13,111 St,STATION
+J13N,111 St,UPT
+J13S,111 St,DWT
+J14,104 St,STATION
+J14N,104 St,UPT
+J14S,104 St,DWT
+J15,Woodhaven Blvd,STATION
+J15N,Woodhaven Blvd,UPT
+J15S,Woodhaven Blvd,DWT
+J16,85 St-Forest Pkwy,STATION
+J16N,85 St-Forest Pkwy,UPT
+J16S,85 St-Forest Pkwy,DWT
+J17,75 St-Elderts Ln,STATION
+J17N,75 St-Elderts Ln,UPT
+J17S,75 St-Elderts Ln,DWT
+J19,Cypress Hills,STATION
+J19N,Cypress Hills,UPT
+J19S,Cypress Hills,DWT
+J20,Crescent St,STATION
+J20N,Crescent St,UPT
+J20S,Crescent St,DWT
+J21,Norwood Av,STATION
+J21N,Norwood Av,UPT
+J21S,Norwood Av,DWT
+J22,Cleveland St,STATION
+J22N,Cleveland St,UPT
+J22S,Cleveland St,DWT
+J23,Van Siclen Av,STATION
+J23N,Van Siclen Av,UPT
+J23S,Van Siclen Av,DWT
+J24,Alabama Av,STATION
+J24N,Alabama Av,UPT
+J24S,Alabama Av,DWT
+J27,Broadway Junction,STATION
+J27N,Broadway Junction,UPT
+J27S,Broadway Junction,DWT
+J28,Chauncey St,STATION
+J28N,Chauncey St,UPT
+J28S,Chauncey St,DWT
+J29,Halsey St,STATION
+J29N,Halsey St,UPT
+J29S,Halsey St,DWT
+J30,Gates Av,STATION
+J30N,Gates Av,UPT
+J30S,Gates Av,DWT
+J31,Kosciuszko St,STATION
+J31N,Kosciuszko St,UPT
+J31S,Kosciuszko St,DWT
+L01,8 Av,STATION
+L01N,8 Av,UPT
+L01S,8 Av,DWT
+L02,6 Av,STATION
+L02N,6 Av,UPT
+L02S,6 Av,DWT
+L03,14 St-Union Sq,STATION
+L03N,14 St-Union Sq,UPT
+L03S,14 St-Union Sq,DWT
+L05,3 Av,STATION
+L05N,3 Av,UPT
+L05S,3 Av,DWT
+L06,1 Av,STATION
+L06N,1 Av,UPT
+L06S,1 Av,DWT
+L08,Bedford Av,STATION
+L08N,Bedford Av,UPT
+L08S,Bedford Av,DWT
+L10,Lorimer St,STATION
+L10N,Lorimer St,UPT
+L10S,Lorimer St,DWT
+L11,Graham Av,STATION
+L11N,Graham Av,UPT
+L11S,Graham Av,DWT
+L12,Grand St,STATION
+L12N,Grand St,UPT
+L12S,Grand St,DWT
+L13,Montrose Av,STATION
+L13N,Montrose Av,UPT
+L13S,Montrose Av,DWT
+L14,Morgan Av,STATION
+L14N,Morgan Av,UPT
+L14S,Morgan Av,DWT
+L15,Jefferson St,STATION
+L15N,Jefferson St,UPT
+L15S,Jefferson St,DWT
+L16,DeKalb Av,STATION
+L16N,DeKalb Av,UPT
+L16S,DeKalb Av,DWT
+L17,Myrtle-Wyckoff Avs,STATION
+L17N,Myrtle-Wyckoff Avs,UPT
+L17S,Myrtle-Wyckoff Avs,DWT
+L19,Halsey St,STATION
+L19N,Halsey St,UPT
+L19S,Halsey St,DWT
+L20,Wilson Av,STATION
+L20N,Wilson Av,UPT
+L20S,Wilson Av,DWT
+L21,Bushwick Av-Aberdeen St,STATION
+L21N,Bushwick Av-Aberdeen St,UPT
+L21S,Bushwick Av-Aberdeen St,DWT
+L22,Broadway Junction,STATION
+L22N,Broadway Junction,UPT
+L22S,Broadway Junction,DWT
+L24,Atlantic Av,STATION
+L24N,Atlantic Av,UPT
+L24S,Atlantic Av,DWT
+L25,Sutter Av,STATION
+L25N,Sutter Av,UPT
+L25S,Sutter Av,DWT
+L26,Livonia Av,STATION
+L26N,Livonia Av,UPT
+L26S,Livonia Av,DWT
+L27,New Lots Av,STATION
+L27N,New Lots Av,UPT
+L27S,New Lots Av,DWT
+L28,East 105 St,STATION
+L28N,East 105 St,UPT
+L28S,East 105 St,DWT
+L29,Canarsie-Rockaway Pkwy,STATION
+L29N,Canarsie-Rockaway Pkwy,UPT
+L29S,Canarsie-Rockaway Pkwy,DWT
+M01,Middle Village-Metropolitan Av,STATION
+M01N,Middle Village-Metropolitan Av,UPT
+M01S,Middle Village-Metropolitan Av,DWT
+M04,Fresh Pond Rd,STATION
+M04N,Fresh Pond Rd,UPT
+M04S,Fresh Pond Rd,DWT
+M05,Forest Av,STATION
+M05N,Forest Av,UPT
+M05S,Forest Av,DWT
+M06,Seneca Av,STATION
+M06N,Seneca Av,UPT
+M06S,Seneca Av,DWT
+M08,Myrtle-Wyckoff Avs,STATION
+M08N,Myrtle-Wyckoff Avs,UPT
+M08S,Myrtle-Wyckoff Avs,DWT
+M09,Knickerbocker Av,STATION
+M09N,Knickerbocker Av,UPT
+M09S,Knickerbocker Av,DWT
+M10,Central Av,STATION
+M10N,Central Av,UPT
+M10S,Central Av,DWT
+M11,Myrtle Av,STATION
+M11N,Myrtle Av,UPT
+M11S,Myrtle Av,DWT
+M12,Flushing Av,STATION
+M12N,Flushing Av,UPT
+M12S,Flushing Av,DWT
+M13,Lorimer St,STATION
+M13N,Lorimer St,UPT
+M13S,Lorimer St,DWT
+M14,Hewes St,STATION
+M14N,Hewes St,UPT
+M14S,Hewes St,DWT
+M16,Marcy Av,STATION
+M16N,Marcy Av,UPT
+M16S,Marcy Av,DWT
+M18,Delancey St-Essex St,STATION
+M18N,Delancey St-Essex St,UPT
+M18S,Delancey St-Essex St,DWT
+M19,Bowery,STATION
+M19N,Bowery,UPT
+M19S,Bowery,DWT
+M20,Canal St,STATION
+M20N,Canal St,UPT
+M20S,Canal St,DWT
+M21,Chambers St,STATION
+M21N,Chambers St,UPT
+M21S,Chambers St,DWT
+M22,Fulton St,STATION
+M22N,Fulton St,UPT
+M22S,Fulton St,DWT
+M23,Broad St,STATION
+M23N,Broad St,UPT
+M23S,Broad St,DWT
+N02,8 Av,STATION
+N02N,8 Av,UPT
+N02S,8 Av,DWT
+N03,Fort Hamilton Pkwy,STATION
+N03N,Fort Hamilton Pkwy,UPT
+N03S,Fort Hamilton Pkwy,DWT
+N04,New Utrecht Av,STATION
+N04N,New Utrecht Av,UPT
+N04S,New Utrecht Av,DWT
+N05,18 Av,STATION
+N05N,18 Av,UPT
+N05S,18 Av,DWT
+N06,20 Av,STATION
+N06N,20 Av,UPT
+N06S,20 Av,DWT
+N07,Bay Pkwy,STATION
+N07N,Bay Pkwy,UPT
+N07S,Bay Pkwy,DWT
+N08,Kings Hwy,STATION
+N08N,Kings Hwy,UPT
+N08S,Kings Hwy,DWT
+N09,Avenue U,STATION
+N09N,Avenue U,UPT
+N09S,Avenue U,DWT
+N10,86 St,STATION
+N10N,86 St,UPT
+N10S,86 St,DWT
+N12,S.B. Coney Island,STATION
+N12N,S.B. Coney Island,UPT
+N12S,S.B. Coney Island,DWT
+Q01,Canal St,STATION
+Q01N,Canal St,UPT
+Q01S,Canal St,DWT
+Q03,72 St,STATION
+Q03N,72 St,UPT
+Q03S,72 St,DWT
+Q04,86 St,STATION
+Q04N,86 St,UPT
+Q04S,86 St,DWT
+Q05,96 St,STATION
+Q05N,96 St,UPT
+Q05S,96 St,DWT
+R01,Astoria-Ditmars Blvd,STATION
+R01N,Astoria-Ditmars Blvd,UPT
+R01S,Astoria-Ditmars Blvd,DWT
+R03,Astoria Blvd,STATION
+R03N,Astoria Blvd,UPT
+R03S,Astoria Blvd,DWT
+R04,30 Av,STATION
+R04N,30 Av,UPT
+R04S,30 Av,DWT
+R05,Broadway,STATION
+R05N,Broadway,UPT
+R05S,Broadway,DWT
+R06,36 Av,STATION
+R06N,36 Av,UPT
+R06S,36 Av,DWT
+R08,39 Av-Dutch Kills,STATION
+R08N,39 Av-Dutch Kills,UPT
+R08S,39 Av-Dutch Kills,DWT
+R09,Queensboro Plaza,STATION
+R09N,Queensboro Plaza,UPT
+R09S,Queensboro Plaza,DWT
+R11,Lexington Av/59 St,STATION
+R11N,Lexington Av/59 St,UPT
+R11S,Lexington Av/59 St,DWT
+R13,5 Av/59 St,STATION
+R13N,5 Av/59 St,UPT
+R13S,5 Av/59 St,DWT
+R14,57 St-7 Av,STATION
+R14N,57 St-7 Av,UPT
+R14S,57 St-7 Av,DWT
+R15,49 St,STATION
+R15N,49 St,UPT
+R15S,49 St,DWT
+R16,Times Sq-42 St,STATION
+R16N,Times Sq-42 St,UPT
+R16S,Times Sq-42 St,DWT
+R17,34 St-Herald Sq,STATION
+R17N,34 St-Herald Sq,UPT
+R17S,34 St-Herald Sq,DWT
+R18,28 St,STATION
+R18N,28 St,UPT
+R18S,28 St,DWT
+R19,23 St,STATION
+R19N,23 St,UPT
+R19S,23 St,DWT
+R20,14 St-Union Sq,STATION
+R20N,14 St-Union Sq,UPT
+R20S,14 St-Union Sq,DWT
+R21,8 St-NYU,STATION
+R21N,8 St-NYU,UPT
+R21S,8 St-NYU,DWT
+R22,Prince St,STATION
+R22N,Prince St,UPT
+R22S,Prince St,DWT
+R23,Canal St,STATION
+R23N,Canal St,UPT
+R23S,Canal St,DWT
+R24,City Hall,STATION
+R24N,City Hall,UPT
+R24S,City Hall,DWT
+R25,Cortlandt St,STATION
+R25N,Cortlandt St,UPT
+R25S,Cortlandt St,DWT
+R26,Rector St,STATION
+R26N,Rector St,UPT
+R26S,Rector St,DWT
+R27,Whitehall St-South Ferry,STATION
+R27N,Whitehall St-South Ferry,UPT
+R27S,Whitehall St-South Ferry,DWT
+R28,Court St,STATION
+R28N,Court St,UPT
+R28S,Court St,DWT
+R29,Jay St-MetroTech,STATION
+R29N,Jay St-MetroTech,UPT
+R29S,Jay St-MetroTech,DWT
+R30,DeKalb Av,STATION
+R30N,DeKalb Av,UPT
+R30S,DeKalb Av,DWT
+R31,Atlantic Av-Barclays Ctr,STATION
+R31N,Atlantic Av-Barclays Ctr,UPT
+R31S,Atlantic Av-Barclays Ctr,DWT
+R32,Union St,STATION
+R32N,Union St,UPT
+R32S,Union St,DWT
+R33,4 Av-9 St,STATION
+R33N,4 Av-9 St,UPT
+R33S,4 Av-9 St,DWT
+R34,Prospect Av,STATION
+R34N,Prospect Av,UPT
+R34S,Prospect Av,DWT
+R35,25 St,STATION
+R35N,25 St,UPT
+R35S,25 St,DWT
+R36,36 St,STATION
+R36N,36 St,UPT
+R36S,36 St,DWT
+R39,45 St,STATION
+R39N,45 St,UPT
+R39S,45 St,DWT
+R40,53 St,STATION
+R40N,53 St,UPT
+R40S,53 St,DWT
+R41,59 St,STATION
+R41N,59 St,UPT
+R41S,59 St,DWT
+R42,Bay Ridge Av,STATION
+R42N,Bay Ridge Av,UPT
+R42S,Bay Ridge Av,DWT
+R43,77 St,STATION
+R43N,77 St,UPT
+R43S,77 St,DWT
+R44,86 St,STATION
+R44N,86 St,UPT
+R44S,86 St,DWT
+R45,Bay Ridge-95 St,STATION
+R45N,Bay Ridge-95 St,UPT
+R45S,Bay Ridge-95 St,DWT
+S01,Franklin Av,STATION
+S01N,Franklin Av,UPT
+S01S,Franklin Av,DWT
+S03,Park Pl,STATION
+S03N,Park Pl,UPT
+S03S,Park Pl,DWT
+S04,Botanic Garden,STATION
+S04N,Botanic Garden,UPT
+S04S,Botanic Garden,DWT
+S09,Tottenville,STATION
+S09N,Tottenville,UPT
+S09S,Tottenville,DWT
+S11,Arthur Kill,STATION
+S11N,Arthur Kill,UPT
+S11S,Arthur Kill,DWT
+S13,Richmond Valley,STATION
+S13N,Richmond Valley,UPT
+S13S,Richmond Valley,DWT
+S14,Pleasant Plains,STATION
+S14N,Pleasant Plains,UPT
+S14S,Pleasant Plains,DWT
+S15,Prince's Bay,STATION
+S15N,Prince's Bay,UPT
+S15S,Prince's Bay,DWT
+S16,Huguenot,STATION
+S16N,Huguenot,UPT
+S16S,Huguenot,DWT
+S17,Annadale,STATION
+S17N,Annadale,UPT
+S17S,Annadale,DWT
+S18,Eltingville,STATION
+S18N,Eltingville,UPT
+S18S,Eltingville,DWT
+S19,Great Kills,STATION
+S19N,Great Kills,UPT
+S19S,Great Kills,DWT
+S20,Bay Terrace,STATION
+S20N,Bay Terrace,UPT
+S20S,Bay Terrace,DWT
+S21,Oakwood Heights,STATION
+S21N,Oakwood Heights,UPT
+S21S,Oakwood Heights,DWT
+S22,New Dorp,STATION
+S22N,New Dorp,UPT
+S22S,New Dorp,DWT
+S23,Grant City,STATION
+S23N,Grant City,UPT
+S23S,Grant City,DWT
+S24,Jefferson Av,STATION
+S24N,Jefferson Av,UPT
+S24S,Jefferson Av,DWT
+S25,Dongan Hills,STATION
+S25N,Dongan Hills,UPT
+S25S,Dongan Hills,DWT
+S26,Old Town,STATION
+S26N,Old Town,UPT
+S26S,Old Town,DWT
+S27,Grasmere,STATION
+S27N,Grasmere,UPT
+S27S,Grasmere,DWT
+S28,Clifton,STATION
+S28N,Clifton,UPT
+S28S,Clifton,DWT
+S29,Stapleton,STATION
+S29N,Stapleton,UPT
+S29S,Stapleton,DWT
+S30,Tompkinsville,STATION
+S30N,Tompkinsville,UPT
+S30S,Tompkinsville,DWT
+S31,St George,STATION
+S31N,St George,UPT
+S31S,St George,DWT
